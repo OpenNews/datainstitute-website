@@ -1,0 +1,23 @@
+name: SRCCON
+markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+plugins:
+  - jekyll-redirect-from
+exclude: ['*.yml']
+collections:
+  transcripts:
+    output: true
+    permalink: /:collection/:title/
+  share:
+    output: true
+    permalink: /:collection/:slug/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: layout
+      logo: /media/img/srccon_logo_angle_512.png
+      title: Data Institute
+      description: Data Institute!
