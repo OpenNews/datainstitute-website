@@ -2,7 +2,7 @@
 layout: layout
 section: homepage
 permalink: /
-logo: /media/img/datainstitutelogo_plain.png
+logo: /media/img/datainstitutelogo_yellow.png
 logo_link: /
 ---
 
