@@ -2,6 +2,8 @@
 layout: layout
 section: homepage
 permalink: /
+logo: /media/img/datainstitutelogo_plain.png
+logo_link: /
 ---
 
 <div class="page-intro">
