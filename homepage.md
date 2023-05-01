@@ -8,8 +8,8 @@ logo_link: /
 
 <div class="page-intro">
     <p class="big-type">The Data Institute is a collaboration between The Ida B. Wells Society for Investigative Reporting and the Center for Democracy and Journalism.</p>
-    <p>This intensive workshop teaches journalists how to use data, design and code. In 2023, the Data Institute will return in person Monday, July 10 – Friday, July 21.</p>
-    <p>The application will be open May 10-24</p>
+    <p>This intensive workshop teaches journalists how to use data, design and code. The Data Institute will return in person Monday, July 10 – Friday, July 21, 2023.</p>
+    <p>The application will be open May 10-24, 2023.</p>
 </div>
 
 ## When
