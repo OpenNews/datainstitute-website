@@ -9,20 +9,17 @@
     <meta name="description" content="{{ page.description }}" />
     
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:image" content="https://datainstitute.opennews.org{% if page.share_image %}{{ page.share_image }}{% else %}{{ page.logo }}{% endif %}" />
+    <meta property="og:image" content="https://cjddatainstitute.org/{% if page.share_image %}{{ page.share_image }}{% else %}{{ page.logo }}{% endif %}" />
     <meta property="og:type" content="article" />
     <meta property="og:description" content="{{ page.description }}" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" value="{{ page.title }}" />
     <meta name="twitter:description" value="{{ page.description }}" />
-    <meta name="twitter:image" content="https://datainstitute.opennews.org{% if page.share_image %}{{ page.share_image }}{% else %}{{ page.logo }}{% endif %}" />
-    <meta name="twitter:url" value="https://datainstitute.opennews.org{{ page.url }}" />
-    <meta name="twitter:site" value="@opennews" />
+    <meta name="twitter:image" content="https://cjddatainstitute.org/{% if page.share_image %}{{ page.share_image }}{% else %}{{ page.logo }}{% endif %}" />
+    <meta name="twitter:url" value="https://cjddatainstitute.org/{{ page.url }}" />
+    <meta name="twitter:site" value="@IBWellsSociety" />
     
-    <script src="//use.typekit.net/mvg8obr.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
-
     <link rel="stylesheet" href="/media/css/style.css" />
     <link rel="shortcut icon" href="/media/img/favicon.ico" />
 
@@ -37,13 +34,27 @@
     </script>
 </head>
 
-<body class="hub{% if page.section %} {{ page.section }}{% endif %}">
+<body class="{% if page.section %}{{ page.section }}{% endif %}">
     <header>
-        <nav id="hub-nav">
+        <nav>
             <div class="page-container">
-                <a id="main-logo" href="{% if page.logo_link %}{{ page.logo_link }}{% else %}/{% endif %}"><img src="{% if page.logo %}{{ page.logo }}{% else %}/media/img/srccon_logo_angle_512.png{% endif %}"></a>
+                <ul>
+                    <li><a href="#what">What</a></li>
+                    <li><a href="#when-where">When & Where</a></li>
+                    <li><a href="#who">Who</a></li>
+                </ul>
             </div>
         </nav>
+        <div class="page-container">
+            <h1>The Data Institute</h1>
+            <p class="page-intro">The Data Institute is a collaboration between the Center for Democracy & Journalism and the Ida B. Wells Society for Investigative Reporting.</p>
+        </div>
+        <div class="page-container">
+            <ul class="partner-logos">
+                <li class="cjd"><a href="https://cfjd.howard.edu/"><img src="/media/img/cjd_logo.png"></a></li>
+                <li class="ida"><a href="http://idabwellssociety.org/"><img src="/media/img/ida_logo.png"></a></li>
+            </ul>
+        </div>
     </header>
     
     <main>
