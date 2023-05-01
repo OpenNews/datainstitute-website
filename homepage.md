@@ -12,23 +12,19 @@ logo_link: /
     <p>The application will be open May 10-24, 2023.</p>
 </div>
 
-## When
+## What
 
-This year The Data Institute will return to its two-week, in-person format and take place July 10-21, with a welcome event on July 9.
+The Data Institute is a free, hands-on workshop that will cover the basics of brainstorming, reporting, designing, and building interactive graphics and data-driven news applications. In addition to training sessions on data journalism, design, and programming that are taught by experienced journalists, participants will also meet and talk to leading journalists about their careers.
 
-## Where
+The Data Institute was co-founded in 2015 by two women and journalists of color, Sisi Wei and Lena Groeger, to address an equity gap and make high quality training more accessible for all journalists who want to tell powerful stories. The Data Institute equips journalists from a broad array of social, ethnic, and economic backgrounds with the technical skills to create and lead data journalism, including but not limited to people of color, women and nonbinary people, LGBTQ people, and people with disabilities.
 
-The Data Institute will take place in Washington, DC on the campus of Howard University.
+## When + Where
+
+This year The Data Institute will return to its two-week, in-person format and take place July 10-21, with a welcome event on July 9. The Data Institute will take place in Washington, DC on the campus of Howard University.
 
 ## Who
 
 If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. You don’t need to have any previous experience, but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? You’ll be able to tell us in the application.
-
-If you’ve ever felt intimidated by learning to code and doing math, don’t count yourself out, because we’ve all been there. Most of the teachers you’ll have at the Data Institute majored in the humanities, such as Journalism, English, History or Philosophy.
-
-All workshop students will need to use their own laptop, which must be able to install software like R Studio. This means that Chromebooks and iPads won’t work. We’ll provide other materials, including links to where you can get the software we’ll be using for free.
-
-You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](http://idabwellssociety.org/membership/).
 
 ## More information
 
