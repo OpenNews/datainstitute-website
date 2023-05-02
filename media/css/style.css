@@ -163,7 +163,7 @@ header .page-intro {
     font-family: "Denton Condensed";
     font-weight: normal;
     font-style: italic;
-    font-size: 1.3em;
+    font-size: 1.2em;
     line-height: 1.2;
     margin-bottom: .5em;
 }
@@ -186,6 +186,9 @@ header ul.partner-logos li.cjd img {
 }
 header ul.partner-logos li.ida img {
     height: 160px;
+}
+header ul.partner-logos li.pp img {
+    height: 130px;
 }
 
 .page-intro {
@@ -313,6 +316,9 @@ td {
     .page-intro {
         margin: 0 -1em 1em;
     }
+    header .page-intro {
+        font-size: 1.1em;
+    }
 }
 
 @media screen and (max-width: 900px) {
@@ -326,6 +332,9 @@ td {
     header .page-container {
         padding-left: 1em;
         padding-right: 1em;
+    }
+    header .page-intro {
+        font-size: 1.2em;
     }
 }
 
@@ -342,6 +351,9 @@ td {
     .page-intro .button {
         margin-top: 1em;
         display: inline-block;
+    }
+    header ul.partner-logos li {
+        padding: 1em 1em 0;
     }
 }
 
@@ -374,6 +386,9 @@ td {
     header ul.partner-logos li.ida img {
         height: 130px;
     }
+    header ul.partner-logos li.pp img {
+        height: 110px;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -382,6 +397,10 @@ td {
     }
     header h1 {
         font-size: 5em;
+    }
+    header ul.partner-logos li {
+        list-style: none;
+        padding: 1em .75em 0;
     }
 }
 
@@ -399,16 +418,19 @@ td {
         font-size: 1em;
     }
     header ul.partner-logos {
-        margin-bottom: -88px;
+        margin-bottom: -85px;
     }
     header ul.partner-logos li {
-        padding: .5em 1em 0;
+        padding: .5em .5em 0;
     }
     header ul.partner-logos li.cjd img {
-        height: 80px;
+        height: 75px;
     }
     header ul.partner-logos li.ida img {
-        height: 110px;
+        height: 105px;
+    }
+    header ul.partner-logos li.pp img {
+        height: 85px;
     }
 }
 
@@ -427,12 +449,15 @@ td {
         font-size: .9em;
     }
     header ul.partner-logos {
-        margin-bottom: -80px;
+        margin-bottom: -72px;
     }
     header ul.partner-logos li.cjd img {
-        height: 70px;
+        height: 60px;
     }
     header ul.partner-logos li.ida img {
-        height: 90px;
+        height: 80px;
+    }
+    header ul.partner-logos li.pp img {
+        height: 70px;
     }
 }
