@@ -41,4 +41,4 @@ If you’re a journalist passionate about learning how to use data, design and c
 
 We'll update this site with more details and the application on May 10. You can learn more about earlier Data Institutes [on our prior site](https://projects.propublica.org/graphics/ida-propublica-data-institute).
 
-<span id="faq"></span>
+<span id="faqs"></span>
