@@ -8,7 +8,11 @@ logo_link: /
 
 <div class="page-intro">
     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design, and code. The Data Institute will return in person Monday, July 10–Friday, July 21, 2023.</p>
-    <p class="big-type">The application will be open May 10-24, 2023.</p>
+
+    <div class="sub-nav">
+        Applications open May 10-24, 2023
+        <span><a href="" class="button">Apply now! &rarr;</a></span>
+    </div>
 </div>
 
 

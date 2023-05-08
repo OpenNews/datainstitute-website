@@ -67,7 +67,7 @@ body {
 	min-height: 100vh;
     font-family: "Figure", sans-serif;
 }
-header, h1, h2, h3, h4, .button, .trailer {
+header, h1, h2, h3, h4, .trailer {
     font-family: "Denton Condensed Bold", serif;
 }
 footer {
@@ -106,10 +106,12 @@ main h2 {
 .button {
     border: 0;
     border-radius: .25em;
-    background-color: #f2ff00; /* yellow */
+    color: #f2ff00; /* yellow */
+    background-color: #141414; /* ink */
     text-decoration: none;
-    font-size: 21px;
-    padding: .67em 1em;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 1.125rem 1.5rem;
     line-height: 1;
     display: inline-block;
 }
@@ -121,7 +123,7 @@ header {
 }
 header nav {
     background-color: #f2ff00; /* yellow */
-    color: #141414; /* ink */
+    color: #f2ff00; /* ink */
     font-family: "Figure", sans-serif;
     text-align: left;
     font-size: .67em;
@@ -206,13 +208,16 @@ header ul.partner-logos li.ida img {
     margin: 0 .5em;
     vertical-align: 10%;
 }
-.page-intro .sub-nav {
-    font-family: "Denton Condensed", serif;
-    margin-top: 1em;
+.sub-nav {
+    margin: 1em auto;
+    max-width: 800px;
+    font-family: "Figure", sans-serif;
     font-size: .83em;
 }
-.page-intro .button {
+.sub-nav .button {
     margin: 0 1em;
+    background-color: #8f00db; /* ink */
+    color: #f5f1f0; /* newsprint */
 }
 
 footer {
@@ -382,6 +387,12 @@ td {
     }
     header h1 {
         font-size: 5em;
+    }
+    .sub-nav span {
+        display: block;
+    }
+    .sub-nav .button {
+        margin-left: 0;
     }
 }
 
