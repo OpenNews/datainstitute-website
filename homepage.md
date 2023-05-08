@@ -119,46 +119,30 @@ The Data Institute is completely free to attend.
 We will begin reviewing applications after the May 24 deadline has passed, and will notify all applicants by June 6 if they've been selected.
 
 
-<span id="conduct"></span>
+<div id="conduct">
+    <h2>Code of Conduct</h2>
+    
+    <h3>1. Purpose</h3>
+        <p>The Center for Journalism & Democracy, Ida B. Wells Society and ProPublica believe the Data Institute should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity or religion.</p>
+        <p>This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.</p>
+        <p>We expect all of our instructors and students to help us create a safe and positive workshop for everyone.</p>
 
-## Code of Conduct
+    <h3>2. Expected Behavior</h3>
+        <p>Be considerate, respectful, and collaborative.</p>
+        <p>Refrain from demeaning, discriminatory or harassing behavior and speech.</p>
+        <p>Be mindful of your surroundings and of your fellow participants. Alert the Data Institute organizers if you notice a dangerous situation or someone in distress.</p>
 
-**1. Purpose**
+    <h3>3. Unacceptable Behavior</h3>
+        <p>Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by anyone participating in the Data Institute.</p>
+        <p>Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.</p>
 
-The Center for Journalism & Democracy, Ida B. Wells Society and ProPublica believe the Data Institute should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity or religion.
+    <h3>4. Consequences of Unacceptable Behavior</h3>
+        <p>Unacceptable behavior will not be tolerated whether by instructors, students or staff.</p>
+        <p>Anyone asked to stop unacceptable behavior is expected to comply immediately.</p>
+        <p>If someone engages in unacceptable behavior, the Data Institute organizers may take any action we deem appropriate, up to and including discontinuation of any stipends and expulsion from the Institute.</p>
 
-This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.
-
-We expect all of our instructors and students to help us create a safe and positive workshop for everyone.
-
-**2. Expected Behavior**
-
-Be considerate, respectful, and collaborative.
-
-Refrain from demeaning, discriminatory or harassing behavior and speech.
-
-Be mindful of your surroundings and of your fellow participants. Alert the Data Institute organizers if you notice a dangerous situation or someone in distress.
-
-**3. Unacceptable Behavior**
-
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by anyone participating in the Data Institute.
-
-Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
-
-**4. Consequences of Unacceptable Behavior**
-
-Unacceptable behavior will not be tolerated whether by instructors, students or staff.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If someone engages in unacceptable behavior, the Data Institute organizers may take any action we deem appropriate, up to and including discontinuation of any stipends and expulsion from the Institute.
-
-**5. What to Do If You Witness or Are Subject to Unacceptable Behavior**
-
-If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a Data Institute organizer as soon as possible.
-
-The Data Institute organizers will be available to help participants contact building security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the Institute.
-
-Special thanks to the [Portland Tech Workshops](http://pdxtechworkshops.org/code-of-conduct/) for creating their Code of Conduct and licensing it under [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/).
-
-
+    <h3>5. What to Do If You Witness or Are Subject to Unacceptable Behavior</h3>
+        <p>If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a Data Institute organizer as soon as possible.</p>
+        <p>The Data Institute organizers will be available to help participants contact building security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the Institute.</p>
+        <p>Special thanks to the <a href="http://pdxtechworkshops.org/code-of-conduct/">Portland Tech Workshops</a> for creating their Code of Conduct and licensing it under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a>.</p>
+</div>
