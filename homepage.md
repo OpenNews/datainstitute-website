@@ -50,16 +50,34 @@ Over 2 weeks, we'll cover the basics of brainstorming, reporting, designing and 
 
 [Ready to apply](https://airtable.com/shrC5s1Jzf9tqZd4t)?
 
-### What students had to say
 
-Find out more about the class of 2022, 2021, 2019, 2018, 2017 and 2016.
+<span id="testimonials"></span>
+
+## What students had to say
+
+Find out more about the class of <a href="https://projects.propublica.org/graphics/data-institute-2022#institute-who">2022</a>, <a href="https://projects.propublica.org/graphics/data-institute-2021#institute-who">2021</a>, <a href="https://projects.propublica.org/graphics/data-institute-2019#institute-who">2019</a>, <a href="https://projects.propublica.org/graphics/data-institute-2018#institute-who">2018</a>, <a href="https://projects.propublica.org/graphics/data-institute-2017#institute-who">2017</a> and <a href="https://projects.propublica.org/graphics/data-institute-2016#institute-who">2016</a>.
+
+
+<div class="testimonials">
+    <p class="testimonial">
+        <span class="pullquote-big-quote">“</span>Participating in the Data Institute was so inspiring and has given me the tools I need to become a better reporter. In two weeks, I learned concepts I’ve tried to teach myself for two years.” <span class="pullquote-name">– Lakeidra Chavis</span>
+    </p>
+
+    <p class="testimonial">
+        <span class="pullquote-big-quote">“</span>Not to be cheesy or hyperbolic, but the Data Institute may be the most important training I’ve gotten so far in my career... And I got all of this at really no cost to myself or my employer. That’s incredible.” <span class="pullquote-name">– Marquita Brown</span>
+    </p>
+
+    <p class="testimonial">
+        <span class="pullquote-big-quote">“</span>I learned so much during my two weeks here. I feel like I have a better idea of what could be possible, which in turn has led to a number of ideas I plan to bring back to The Courier-Journal.” <span class="pullquote-name">– Allison Ross</span>
+    </p>
+</div>
 
 
 <span id="when-where"></span>
 
 ## When + Where
 
-This year The Data Institute will return to its two-week, in-person format and take place July 10-21, with a welcome event on July 9. The Data Institute will take place in Washington, DC on the campus of Howard University.
+This year The Data Institute will return to its two-week, in-person format and take place July 10-21, with a welcome event on July 9. The Data Institute will take place in Washington, DC, on the campus of Howard University.
 
 
 <span id="who"></span>
@@ -86,18 +104,23 @@ We'll update this site with more details and the application on May 10. You can 
 
 
 <span id="free"></span>
+
 ## It's Free
+
 The Data Institute is completely free to attend. 
 
 
 <span id="faq"></span>
+
 ## Frequently Asked Questions
 
 **When will you be notifying applicants on whether they've been selected?**
 
-We will begin reviewing applications after the May 24 deadline has passed, and will notify all applicants by June 6th if they've been selected.
+We will begin reviewing applications after the May 24 deadline has passed, and will notify all applicants by June 6 if they've been selected.
+
 
 <span id="conduct"></span>
+
 ## Code of Conduct
 
 **1. Purpose**

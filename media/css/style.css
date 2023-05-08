@@ -245,6 +245,37 @@ main input {
 }
 
 
+.testimonials {
+    font-family: "Figure", sans-serif;
+    padding: 1em 0 0;
+    display: grid;
+    grid-gap: 1.5em 2em;
+    grid-template-columns: 1fr 1fr;
+}
+.testimonial {
+    position: relative;
+    padding-left: 1.7em;
+    display: inline-block;
+    font-size: .8em;
+    line-height: 1.3;
+}
+.pullquote-big-quote {
+    font-family: "Denton Condensed", serif;
+    position: absolute;
+    top: -.1em;
+    left: 0;
+    font-size: 3.5em;
+    line-height: 1;
+    opacity: .3;
+}
+.pullquote-name {
+    font-family: "Denton Condensed", serif;
+    display: block;
+    padding-top: .3em;
+    text-align: right;
+    font-style: italic;
+}
+
 
 /* FOOTER STYLES */
 footer p,
@@ -292,24 +323,6 @@ footer #footer-nav a:hover {
 #footer-details .page-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}
-
-
-
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-    font-size: .83em;
-    margin-bottom: 3em;
-}
-td {
-    padding: 0 1em 1em 0;
-    vertical-align: top;
-    line-height: 1.3;
-}
-
-.hidden {
-    display: none;
 }
 
 
@@ -378,6 +391,9 @@ td {
     }
     header ul.partner-logos li.ida img {
         height: 130px;
+    }
+    .testimonials {
+        grid-template-columns: 1fr;
     }
 }
 
