@@ -14,6 +14,32 @@ logo_link: /
 
 <span id="what"></span>
 
+## What you'll learn
+
+Over 2 weeks, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to:
+
+**Data Journalism**
+
+* Conduct data research and evaluate the reliability of your data.
+* Clean data and analyze data sets for interesting trends and outliers.
+* Bulletproof data against common pitfalls and inconsistencies.
+* Perform the most commonly used statistical techniques in journalism.
+
+**Design**
+
+* Sketch and prototype multiple designs for a single project and evaluate the best approach.
+* Learn how to use color, typography and layout.
+* Create clear and clean visualizations to help readers understand complex information.
+
+**Programming**
+
+* Understand basic programming concepts.
+* Create your own website from scratch, using HTML/CSS and Javascript.
+* Know how to continue learning on your own.
+
+[Ready to apply](https://airtable.com/shrC5s1Jzf9tqZd4t)?
+
+
 ## About the program
 
 The Data Institute is a free, hands-on workshop that will cover the basics of brainstorming, reporting, designing, and building interactive graphics and data-driven news applications. In addition to training sessions on data journalism, design, and programming that are taught by experienced journalists, participants will also meet and talk to leading journalists about their careers.
