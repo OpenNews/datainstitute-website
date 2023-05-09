@@ -9,9 +9,10 @@ logo_link: /
 <div class="page-intro">
     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design, and code. The Data Institute will return in person Monday, July 10–Friday, July 21, 2023.</p>
 
-    <div class="sub-nav">
-        Applications open May 10-24, 2023
-        <span><a href="" class="button">Apply now! &rarr;</a></span>
+      <div class="sub-nav">
+        The deadline to apply is May 24
+        <span><a href="https://airtable.com/shrC5s1Jzf9tqZd4t" class="button">Apply now! &rarr;</a></span><br>
+        Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.
     </div>
 </div>
 
@@ -48,7 +49,7 @@ Over 2 weeks, we'll cover the basics of brainstorming, reporting, designing and 
 * Create your own website from scratch, using HTML/CSS and Javascript.
 * Know how to continue learning on your own.
 
-[Ready to apply](https://airtable.com/shrC5s1Jzf9tqZd4t)?
+The workshop will be hands-on and participants will be working through exercises throughout the workshop. [Ready to apply](https://airtable.com/shrC5s1Jzf9tqZd4t)?
 
 
 <span id="testimonials"></span>
@@ -92,7 +93,7 @@ If you’ve ever felt intimidated by learning to code and doing math, don’t co
 
 All workshop students will need to use their own laptop, which must be able to install software like R Studio. This means that Chromebooks and iPads won’t work. We’ll provide other materials, including links to where you can get the software we’ll be using for free.
 
-You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](mailto:https://idabwellssociety.org/membership-account/membership-levels/).
+You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](mailto:https://idabwellssociety.org/membership-account/membership-levels/), and then [fill out The Data Institute application here](https://airtable.com/shrC5s1Jzf9tqZd4t).
 
 
 <!--
@@ -107,7 +108,10 @@ We'll update this site with more details and the application on May 10. You can 
 
 ## It's Free
 
-The Data Institute is completely free to attend. 
+The Data Institute is completely free to attend. We will provide lodging and cover roundtrip travel costs to Washington, DC. We’ll also provide breakfast and lunch every day of the Institute.
+
+In addition, every participant will receive a $1,000 stipend to supplement other needs or replace lost income while participating in the program.
+
 
 
 <span id="faq"></span>
@@ -117,6 +121,38 @@ The Data Institute is completely free to attend.
 **When will you be notifying applicants on whether they've been selected?**
 
 We will begin reviewing applications after the May 24 deadline has passed, and will notify all applicants by June 6 if they've been selected.
+
+**I'm not a U.S. resident. Am I eligible to apply?**
+
+No. The Data Institute is only open to U.S. residents.
+
+**What do you mean by U.S. resident? Can you make any exceptions to this rule?**
+
+U.S. residents are [U.S. citizens or resident aliens](https://www.irs.gov/Individuals/International-Taxpayers/Determining-Alien-Tax-Status). We will not be making any exceptions to this rule.
+
+**Will you make the course material available online?**
+
+Yes, just like [past](https://projects.propublica.org/graphics/data-institute-2022) [workshops](https://projects.propublica.org/graphics/data-institute-2019), we plan to publish a package of materials and online resources that we’ll make available for free.
+
+**I'm not a journalism student, I'm not working in journalism and I don’t plan to work as a journalist in the future. Am I eligible to apply?**
+
+No. While we understand that all of the skills we'll be teaching can be valuable in many fields, the Data Institute's mission is to help increase the number of journalists with data, design and programming skills. Therefore, only applicants who are studying to be journalists, working in journalism, or have demonstrated an interest in journalism will be considered.
+
+**I am a journalism professor, am I eligible to apply?**
+
+Yes!
+
+**What will the hours be? Will I need to take off work?**
+
+The Data Institute will run all day on weekdays between July 10 to July 21. There will also be assignments and project work that will likely occupy a good portion of evenings and weekends. We’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
+
+**Can I attend the Data Institute online?**
+
+No, we are not offering remote participation in the Data Institute.
+
+**More questions?**
+
+Email [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). We're checking daily and can't wait to hear from you. And if you have all the info you need, [apply by May 24](https://airtable.com/shrC5s1Jzf9tqZd4t)!
 
 
 <div id="conduct">
