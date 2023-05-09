@@ -434,6 +434,9 @@ footer #footer-nav a:hover {
     header {
         margin-bottom: 3em;
     }
+    header nav {
+        font-size: .5em;
+    }
     header h1 {
         font-size: 4em;
     }
@@ -457,13 +460,15 @@ footer #footer-nav a:hover {
     }
 }
 
+@media screen and (max-width: 480px) {
+    header nav li {
+        flex-basis: min-content;
+    }
+}
 
 @media screen and (max-width: 420px) {
     header h1 {
         font-size: 3em;
-    }
-    header nav {
-        font-size: .5em;
     }
     .page-intro .big-type {
         font-size: 1.2em;
