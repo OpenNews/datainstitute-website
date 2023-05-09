@@ -160,6 +160,10 @@ header h1 {
     margin: .33em 0 .2em 0;
     text-align: center;
 }
+header h1 a {
+    text-decoration: none;
+    color: #f2ff00; /* yellow */
+}
 header .page-intro {
     color: #f5f1f0; /* newsprint */
     font-family: "Denton Condensed";

@@ -1,18 +1,15 @@
 ---
-layout: layout
 section: homepage
 permalink: /
-logo: /media/img/datainstitutelogo_navy.png
-logo_link: /
 ---
 
 <div class="page-intro">
     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design, and code. The Data Institute will return in person Monday, July 10–Friday, July 21, 2023.</p>
 
       <div class="sub-nav">
-        The deadline to apply is May 24
-        <span><a href="https://airtable.com/shrC5s1Jzf9tqZd4t" class="button">Apply now! &rarr;</a></span><br>
-        Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.
+        <p>The deadline to apply is May 24
+        <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
+        <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.</p>
     </div>
 </div>
 
@@ -49,7 +46,7 @@ Over 2 weeks, we'll cover the basics of brainstorming, reporting, designing and 
 * Create your own website from scratch, using HTML/CSS and Javascript.
 * Know how to continue learning on your own.
 
-The workshop will be hands-on and participants will be working through exercises throughout the workshop. [Ready to apply](https://airtable.com/shrC5s1Jzf9tqZd4t)?
+The workshop will be hands-on and participants will be working through exercises throughout the workshop. [Ready to apply](/apply/)?
 
 
 <span id="testimonials"></span>
@@ -85,7 +82,7 @@ This year The Data Institute will return to its two-week, in-person format and t
 
 ## Who
 
-If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. You don’t need to have any previous experience, but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? [Tell us about it in the application](https://airtable.com/shrC5s1Jzf9tqZd4t).
+If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. You don’t need to have any previous experience, but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? [Tell us about it in the application](/apply/).
 
 With the move of the Data Institute to The Center for Journalism & Democracy’s home at Howard University, we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, and other groups historically left out of opportunities like these. 
 
@@ -152,7 +149,7 @@ No, we are not offering remote participation in the Data Institute.
 
 **More questions?**
 
-Email [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). We're checking daily and can't wait to hear from you. And if you have all the info you need, [apply by May 24](https://airtable.com/shrC5s1Jzf9tqZd4t)!
+Email [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). We're checking daily and can't wait to hear from you. And if you have all the info you need, [apply by May 24](/apply/)!
 
 
 <div id="conduct">
