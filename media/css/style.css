@@ -154,11 +154,14 @@ header nav a:hover {
 header h1 {
     font-family: "Denton Condensed Bold", sans-serif;
     color: #f2ff00; /* yellow */
-    font-size: 7em;
+    font-size: 4em;
     line-height: 1;
     padding: 0;
     margin: .33em 0 .2em 0;
     text-align: center;
+}
+header.homepage h1 {
+    font-size: 7em;
 }
 header h1 a {
     text-decoration: none;
@@ -171,7 +174,7 @@ header .page-intro {
     font-style: italic;
     font-size: 1.3em;
     line-height: 1.2;
-    margin-bottom: .5em;
+    margin-bottom: 1.5em;
 }
 header ul.partner-logos {
     margin: 0 0 0 0;
@@ -181,16 +184,27 @@ header ul.partner-logos {
     align-items: center;
     justify-content: center;
     height: inherit;
+    margin-bottom: -80px;
+}
+header.homepage ul.partner-logos {
     margin-bottom: -110px;
 }
 header ul.partner-logos li {
     list-style: none;
-    padding: 1em 1.5em 0;
+    padding: 0 1.5em 0;
 }
+
 header ul.partner-logos li.cjd img {
-    height: 120px;
+    height: 70px;
 }
 header ul.partner-logos li.ida img {
+    height: 90px;
+}
+
+header.homepage ul.partner-logos li.cjd img {
+    height: 120px;
+}
+header.homepage ul.partner-logos li.ida img {
     height: 160px;
 }
 
@@ -282,11 +296,13 @@ main input {
 
 #conduct {
     margin-top: 3em;
-    border: 1px solid rgba(20, 20, 20, .2);
-    background-color: #fff;
     padding: 0 2em 1em;
     font-size: .83em;
     line-height: 1.3;
+}
+#conduct, .airtable-embed {
+    background-color: #fff;
+    border: 1px solid rgba(20, 20, 20, .2);
 }
 #conduct h2 {
     margin-top: 1.3em;
@@ -383,6 +399,9 @@ footer #footer-nav a:hover {
         margin-top: 1em;
         display: inline-block;
     }
+    header h1 {
+        font-size: 3.5em;
+    }
 }
 
 @media screen and (max-width: 700px) {
@@ -398,20 +417,24 @@ footer #footer-nav a:hover {
     }
     header .page-intro {
         font-size: 1.2em;
+        margin-bottom: 1em;
     }
     header nav {
         font-size: .6em;
     }
     header h1 {
+        font-size: 3em;
+    }
+    header.homepage h1 {
         font-size: 6em;
     }
-    header ul.partner-logos {
+    header.homepage ul.partner-logos {
         margin-bottom: -97px;
     }
-    header ul.partner-logos li.cjd img {
+    header.homepage ul.partner-logos li.cjd img {
         height: 100px;
     }
-    header ul.partner-logos li.ida img {
+    header.homepage ul.partner-logos li.ida img {
         height: 130px;
     }
     .testimonials {
@@ -423,7 +446,7 @@ footer #footer-nav a:hover {
     header {
         margin-bottom: 3.5em;
     }
-    header h1 {
+    header.homepage h1 {
         font-size: 5em;
     }
     .sub-nav span {
@@ -441,7 +464,7 @@ footer #footer-nav a:hover {
     header nav {
         font-size: .5em;
     }
-    header h1 {
+    header.homepage h1 {
         font-size: 4em;
     }
     .page-intro .big-type {
@@ -449,17 +472,18 @@ footer #footer-nav a:hover {
     }
     header .page-intro {
         font-size: 1em;
+        margin-bottom: .75em;
     }
-    header ul.partner-logos {
+    header.homepage ul.partner-logos {
         margin-bottom: -88px;
     }
     header ul.partner-logos li {
-        padding: .5em 1em 0;
+        padding: 0 1em 0;
     }
-    header ul.partner-logos li.cjd img {
+    header.homepage ul.partner-logos li.cjd img {
         height: 80px;
     }
-    header ul.partner-logos li.ida img {
+    header.homepage ul.partner-logos li.ida img {
         height: 110px;
     }
 }
@@ -471,7 +495,7 @@ footer #footer-nav a:hover {
 }
 
 @media screen and (max-width: 420px) {
-    header h1 {
+    header h1, header.homepage h1 {
         font-size: 3em;
     }
     .page-intro .big-type {
@@ -480,13 +504,13 @@ footer #footer-nav a:hover {
     header .page-intro {
         font-size: .9em;
     }
-    header ul.partner-logos {
+    header.homepage ul.partner-logos {
         margin-bottom: -80px;
     }
-    header ul.partner-logos li.cjd img {
+    header.homepage ul.partner-logos li.cjd img {
         height: 70px;
     }
-    header ul.partner-logos li.ida img {
+    header.homepage ul.partner-logos li.ida img {
         height: 90px;
     }
 }

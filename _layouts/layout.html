@@ -35,7 +35,7 @@
 </head>
 
 <body class="{% if page.section %}{{ page.section }}{% endif %}">
-    <header>
+    <header class="{{ page.section }}">
         <nav>
             <div class="page-container">
                 <ul>
@@ -46,25 +46,23 @@
                     <li><a href="/#free">It's Free</a></li>
                     <li><a href="/#faq">FAQ</a></li>
                     {% else %}
-                    <li><a href="/">&larr; The Data Institute Home</a></li>
+                    <li><a href="/">&larr;&nbsp;Home</a></li>
                     {% endif %}
                 </ul>
             </div>
         </nav>
         <div class="page-container">
+            <h1><a href="/">The Data Institute</a></h1>
             {% if page.section == "homepage" %}
-            <h1 class="{{ page.section }}"><a href="/">The Data Institute</a></h1>
             <p class="page-intro">The Data Institute is a collaboration between The Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting.</p>
             {% endif %}
         </div>
-        {% if page.section == "homepage" %}
         <div class="page-container">
             <ul class="partner-logos">
                 <li class="cjd"><a href="https://cfjd.howard.edu/"><img src="/media/img/cjd_logo.png"></a></li>
                 <li class="ida"><a href="http://idabwellssociety.org/"><img src="/media/img/ida_logo.png"></a></li>
             </ul>
         </div>
-        {% endif %}
     </header>
     
     <main>
