@@ -32,7 +32,7 @@ This year The Data Institute will return to its two-week, in-person format and t
 
 ## Who
 
-If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience._ You don’t need to have any previous experience, but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? You’ll be able to tell us in the application.
+If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience,_ but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? You’ll be able to tell us in the application.
 
 
 <span id="more"></span>
