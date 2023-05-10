@@ -7,7 +7,7 @@ permalink: /
      <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design and code. The Data Institute will return in person Mon., July 10 – Fri., July 21, 2023.</p>
 
       <div class="sub-nav">
-        <p>The deadline to apply is May 24
+        <p>The application deadline is May 24.
         <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
         <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.</p>
     </div>
