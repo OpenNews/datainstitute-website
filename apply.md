@@ -5,7 +5,7 @@ title: The Data Institute — Apply!
 
 ## Apply for The Data Institute
 
-The Data Institute is a free, hands-on workshop that will cover the basics of brainstorming, reporting, designing, and building interactive graphics and data-driven news applications.
+The Data Institute is a collaboration between the Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting. It is a two-week intensive workshop that will teach you how to use data, design and code for journalism. 
 
 Applications for 2023 are open through May 24. If you have questions, you can [check our FAQ](/#faq) or reach out to [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). If you're all set, the application form is below!
 

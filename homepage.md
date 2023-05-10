@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <div class="page-intro">
-    <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design, and code. The Data Institute will return in person Monday, July 10–Friday, July 21, 2023.</p>
+     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design and code. The Data Institute will return in person Mon., July 10 – Fri., July 21, 2023.</p>
 
       <div class="sub-nav">
         <p>The deadline to apply is May 24
@@ -18,14 +18,14 @@ permalink: /
 
 ## About the program
 
-The Data Institute is a free, hands-on workshop that will cover the basics of brainstorming, reporting, designing, and building interactive graphics and data-driven news applications. In addition to training sessions on data journalism, design, and programming that are taught by experienced journalists, participants will also meet and talk to leading journalists about their careers.
+The Data Institute is a free, hands-on workshop that will cover the basics of understanding and manipulating data, how to apply design principles and layout to stories and how to code your own interactive project. In addition to training sessions on data journalism, design and programming that are taught by experienced journalists, participants will also meet and talk to leading journalists about their careers.
 
-The Data Institute was co-founded in 2015 by two women and journalists of color, Sisi Wei and Lena Groeger, to address an equity gap and make high quality training more accessible for all journalists who want to tell powerful stories. The Data Institute equips journalists from a broad array of social, ethnic, and economic backgrounds with the technical skills to create and lead data journalism, including but not limited to people of color, women and nonbinary people, LGBTQ people, and people with disabilities.
+Co-founded in 2015 by two women and journalists of color, Sisi Wei and Lena Groeger, the Data Institute seeks to address an equity gap and make high-quality training more accessible for all journalists who want to tell powerful stories. The Data Institute equips journalists from a broad array of social, ethnic and economic backgrounds with the technical skills to create and lead data journalism, including but not limited to people of color, women and nonbinary people, LGBTQ people, and people with disabilities.
 
 
 ## What you'll learn
 
-Over 2 weeks, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to:
+Over two weeks, we'll cover the basics of using data, design and code for journalism. By the end of the course you should be able to:
 
 **Data Journalism**
 
@@ -75,22 +75,23 @@ Find out more about the class of <a href="https://projects.propublica.org/graphi
 
 ## When + Where
 
-This year The Data Institute will return to its two-week, in-person format and take place July 10-21, with a welcome event on July 9. The Data Institute will take place in Washington, DC, on the campus of Howard University.
+This year The Data Institute will return to its two-week, in-person format and take place July 10-21 on the campus of Howard University in Washington, D.C.
 
 
 <span id="who"></span>
 
 ## Who
 
-If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. You don’t need to have any previous experience, but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? [Tell us about it in the application](/apply/).
+If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience_, but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? [Tell us about it in the application](/apply/).
 
-With the move of the Data Institute to The Center for Journalism & Democracy’s home at Howard University, we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, and other groups historically left out of opportunities like these. 
+With the move of the Data Institute to the Center for Journalism & Democracy’s home at Howard University, we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, and other groups historically left out of opportunities such as these. 
 
-If you’ve ever felt intimidated by learning to code and doing math, don’t count yourself out, because we’ve all been there. Most of the teachers you’ll have at the Data Institute majored in the humanities, such as Journalism, English, History or Philosophy.
+If you’ve ever felt intimidated by learning to code and doing math, don’t count yourself out, because we’ve all been there. Most of the teachers you’ll have at the Data Institute majored in the humanities, such as journalism, English, history or philosophy.
 
 All workshop students will need to use their own laptop, which must be able to install software like R Studio. This means that Chromebooks and iPads won’t work. We’ll provide other materials, including links to where you can get the software we’ll be using for free.
 
-You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](https://idabwellssociety.org/membership-account/membership-levels/), and then [fill out The Data Institute application here](/apply/).
+
+You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](https://idabwellssociety.org/membership-account/membership-levels/), and then [fill out the Data Institute application here](/apply/).
 
 
 <!--
@@ -105,10 +106,9 @@ We'll update this site with more details and the application on May 10. You can 
 
 ## It's Free
 
-The Data Institute is completely free to attend. We will provide lodging and cover roundtrip travel costs to Washington, DC. We’ll also provide breakfast and lunch every day of the Institute.
+The Data Institute is completely free to attend. We will provide lodging and cover roundtrip travel costs to Washington, D.C. We’ll also provide breakfast and lunch every day of the Institute.
 
 In addition, every participant will receive a $1,000 stipend to supplement other needs or replace lost income while participating in the program.
-
 
 
 <span id="faq"></span>
@@ -156,7 +156,7 @@ Email [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). We're check
     <h2>Code of Conduct</h2>
     
     <h3>1. Purpose</h3>
-        <p>The Center for Journalism & Democracy, Ida B. Wells Society and ProPublica believe the Data Institute should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity or religion.</p>
+        <p>The Center for Journalism & Democracy and Ida B. Wells Society believe the Data Institute should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity or religion.</p>
         <p>This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.</p>
         <p>We expect all of our instructors and students to help us create a safe and positive workshop for everyone.</p>
 
