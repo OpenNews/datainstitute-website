@@ -90,7 +90,6 @@ If you’ve ever felt intimidated by learning to code and doing math, don’t co
 
 All workshop students will need to use their own laptop, which must be able to install software like R Studio. This means that Chromebooks and iPads won’t work. We’ll provide other materials, including links to where you can get the software we’ll be using for free.
 
-
 You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](https://idabwellssociety.org/membership-account/membership-levels/), and then [fill out the Data Institute application here](/apply/).
 
 
@@ -98,7 +97,6 @@ You must be an Ida B. Wells Society member to apply. Membership is free and [you
 <span id="more"></span>
 
 ## More information
-
 We'll update this site with more details and the application on May 10. You can learn more about earlier Data Institutes [on our prior site](https://projects.propublica.org/graphics/ida-propublica-data-institute).-->
 
 
