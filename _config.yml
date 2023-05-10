@@ -18,6 +18,6 @@ defaults:
       path: ""
     values:
       layout: layout
-      logo: /media/img/datainstitutelogo_navy.png
+      logo: /media/img/share_logo.png
       title: The Data Institute
-      description: The Data Institute is a free, hands-on workshop that teaches people how to report, design, and develop interactive graphics and data-driven news applications.
+      description: The Data Institute is a free, hands-on workshop that teaches journalists how to use data, design, and code.

@@ -67,7 +67,7 @@ body {
 	min-height: 100vh;
     font-family: "Figure", sans-serif;
 }
-header, h1, h2, h3, h4, .button, .trailer {
+header, h1, h2, h3, h4, .trailer {
     font-family: "Denton Condensed Bold", serif;
 }
 footer {
@@ -106,10 +106,12 @@ main h2 {
 .button {
     border: 0;
     border-radius: .25em;
-    background-color: #f2ff00; /* yellow */
+    color: #f2ff00; /* yellow */
+    background-color: #141414; /* ink */
     text-decoration: none;
-    font-size: 21px;
-    padding: .67em 1em;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 1.125rem 1.5rem;
     line-height: 1;
     display: inline-block;
 }
@@ -121,7 +123,7 @@ header {
 }
 header nav {
     background-color: #f2ff00; /* yellow */
-    color: #141414; /* ink */
+    color: #f2ff00; /* ink */
     font-family: "Figure", sans-serif;
     text-align: left;
     font-size: .67em;
@@ -152,11 +154,18 @@ header nav a:hover {
 header h1 {
     font-family: "Denton Condensed Bold", sans-serif;
     color: #f2ff00; /* yellow */
-    font-size: 7em;
+    font-size: 4em;
     line-height: 1;
     padding: 0;
     margin: .33em 0 .2em 0;
     text-align: center;
+}
+header.homepage h1 {
+    font-size: 7em;
+}
+header h1 a {
+    text-decoration: none;
+    color: #f2ff00; /* yellow */
 }
 header .page-intro {
     color: #f5f1f0; /* newsprint */
@@ -165,7 +174,7 @@ header .page-intro {
     font-style: italic;
     font-size: 1.3em;
     line-height: 1.2;
-    margin-bottom: .5em;
+    margin-bottom: 1.5em;
 }
 header ul.partner-logos {
     margin: 0 0 0 0;
@@ -175,16 +184,27 @@ header ul.partner-logos {
     align-items: center;
     justify-content: center;
     height: inherit;
+    margin-bottom: -80px;
+}
+header.homepage ul.partner-logos {
     margin-bottom: -110px;
 }
 header ul.partner-logos li {
     list-style: none;
-    padding: 1em 1.5em 0;
+    padding: 0 1.5em 0;
 }
+
 header ul.partner-logos li.cjd img {
-    height: 120px;
+    height: 70px;
 }
 header ul.partner-logos li.ida img {
+    height: 90px;
+}
+
+header.homepage ul.partner-logos li.cjd img {
+    height: 120px;
+}
+header.homepage ul.partner-logos li.ida img {
     height: 160px;
 }
 
@@ -206,13 +226,16 @@ header ul.partner-logos li.ida img {
     margin: 0 .5em;
     vertical-align: 10%;
 }
-.page-intro .sub-nav {
-    font-family: "Denton Condensed", serif;
-    margin-top: 1em;
+.sub-nav {
+    margin: 1em auto;
+    max-width: 800px;
+    font-family: "Figure", sans-serif;
     font-size: .83em;
 }
-.page-intro .button {
+.sub-nav .button {
     margin: 0 1em;
+    background-color: #8f00db; /* ink */
+    color: #f5f1f0; /* newsprint */
 }
 
 footer {
@@ -239,6 +262,57 @@ main input {
     margin: 0 0 .5em;
 }
 
+
+.testimonials {
+    font-family: "Figure", sans-serif;
+    padding: 1em 0 0;
+    display: grid;
+    grid-gap: 1.5em 2em;
+    grid-template-columns: 1fr 1fr;
+}
+.testimonial {
+    position: relative;
+    padding-left: 1.5em;
+    display: inline-block;
+    font-size: .83em;
+    line-height: 1.3;
+}
+.pullquote-big-quote {
+    font-family: "Denton Condensed", serif;
+    position: absolute;
+    top: -.1em;
+    left: -.1em;
+    font-size: 4.2em;
+    line-height: 1;
+    opacity: .4;
+}
+.pullquote-name {
+    font-family: "Denton Condensed", serif;
+    display: block;
+    padding-top: .3em;
+    text-align: right;
+    font-style: italic;
+}
+
+#conduct {
+    margin-top: 3em;
+    padding: 0 2em 1em;
+    font-size: .83em;
+    line-height: 1.3;
+}
+#conduct, .airtable-embed {
+    background-color: #fff;
+    border: 1px solid rgba(20, 20, 20, .2);
+}
+#conduct h2 {
+    margin-top: 1.3em;
+}
+#conduct h3 {
+    margin: 2em 0 1em;
+}
+#conduct h2 + h3 {
+    margin-top: 1em;
+}
 
 
 /* FOOTER STYLES */
@@ -291,24 +365,6 @@ footer #footer-nav a:hover {
 
 
 
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-    font-size: .83em;
-    margin-bottom: 3em;
-}
-td {
-    padding: 0 1em 1em 0;
-    vertical-align: top;
-    line-height: 1.3;
-}
-
-.hidden {
-    display: none;
-}
-
-
-
 @media screen and (max-width: 960px) {
     .page-intro {
         margin: 0 -1em 1em;
@@ -343,6 +399,9 @@ td {
         margin-top: 1em;
         display: inline-block;
     }
+    header h1 {
+        font-size: 3.5em;
+    }
 }
 
 @media screen and (max-width: 700px) {
@@ -358,21 +417,28 @@ td {
     }
     header .page-intro {
         font-size: 1.2em;
+        margin-bottom: 1em;
     }
     header nav {
         font-size: .6em;
     }
     header h1 {
+        font-size: 3em;
+    }
+    header.homepage h1 {
         font-size: 6em;
     }
-    header ul.partner-logos {
+    header.homepage ul.partner-logos {
         margin-bottom: -97px;
     }
-    header ul.partner-logos li.cjd img {
+    header.homepage ul.partner-logos li.cjd img {
         height: 100px;
     }
-    header ul.partner-logos li.ida img {
+    header.homepage ul.partner-logos li.ida img {
         height: 130px;
+    }
+    .testimonials {
+        grid-template-columns: 1fr;
     }
 }
 
@@ -380,8 +446,14 @@ td {
     header {
         margin-bottom: 3.5em;
     }
-    header h1 {
+    header.homepage h1 {
         font-size: 5em;
+    }
+    .sub-nav span {
+        display: block;
+    }
+    .sub-nav .button {
+        margin-left: 0;
     }
 }
 
@@ -389,7 +461,10 @@ td {
     header {
         margin-bottom: 3em;
     }
-    header h1 {
+    header nav {
+        font-size: .5em;
+    }
+    header.homepage h1 {
         font-size: 4em;
     }
     .page-intro .big-type {
@@ -397,28 +472,31 @@ td {
     }
     header .page-intro {
         font-size: 1em;
+        margin-bottom: .75em;
     }
-    header ul.partner-logos {
+    header.homepage ul.partner-logos {
         margin-bottom: -88px;
     }
     header ul.partner-logos li {
-        padding: .5em 1em 0;
+        padding: 0 1em 0;
     }
-    header ul.partner-logos li.cjd img {
+    header.homepage ul.partner-logos li.cjd img {
         height: 80px;
     }
-    header ul.partner-logos li.ida img {
+    header.homepage ul.partner-logos li.ida img {
         height: 110px;
     }
 }
 
+@media screen and (max-width: 480px) {
+    header nav li {
+        flex-basis: min-content;
+    }
+}
 
 @media screen and (max-width: 420px) {
-    header h1 {
+    header h1, header.homepage h1 {
         font-size: 3em;
-    }
-    header nav {
-        font-size: .5em;
     }
     .page-intro .big-type {
         font-size: 1.2em;
@@ -426,13 +504,13 @@ td {
     header .page-intro {
         font-size: .9em;
     }
-    header ul.partner-logos {
+    header.homepage ul.partner-logos {
         margin-bottom: -80px;
     }
-    header ul.partner-logos li.cjd img {
+    header.homepage ul.partner-logos li.cjd img {
         height: 70px;
     }
-    header ul.partner-logos li.ida img {
+    header.homepage ul.partner-logos li.ida img {
         height: 90px;
     }
 }
