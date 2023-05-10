@@ -3,7 +3,7 @@ permalink: /apply/
 title: The Data Institute — Apply!
 ---
 
-## Apply for The Data Institute
+## Apply for the Data Institute
 
 The Data Institute is a collaboration between the Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting. It is a two-week intensive workshop that will teach you how to use data, design and code for journalism. 
 
