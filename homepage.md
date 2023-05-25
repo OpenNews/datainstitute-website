@@ -7,8 +7,7 @@ permalink: /
      <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design and code. The Data Institute will return in person Mon., July 10 – Fri., July 21, 2023.</p>
 
       <div class="sub-nav">
-        <p>The application deadline is May 24.
-        <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
+        <p><span>Applications are now closed.</span></p>
         <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.</p>
     </div>
 </div>
@@ -46,7 +45,7 @@ Over two weeks, we'll cover the basics of using data, design and code for journa
 * Create your own website from scratch, using HTML/CSS and Javascript.
 * Know how to continue learning on your own.
 
-The workshop will be hands-on and participants will be working through exercises throughout the workshop. [Ready to apply](/apply/)?
+The workshop will be hands-on and participants will be working through exercises throughout the workshop.
 
 
 <span id="testimonials"></span>
@@ -82,7 +81,7 @@ This year The Data Institute will return to its two-week, in-person format and t
 
 ## Who
 
-If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience_, but we want to see that you’ve demonstrated curiosity about telling stories with data. Have you tinkered with data, design or code? [Tell us about it in the application](/apply/).
+If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience_, but we want to see that you’ve demonstrated curiosity about telling stories with data. 
 
 With the move of the Data Institute to the Center for Journalism & Democracy’s home at Howard University, we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, and other groups historically left out of opportunities such as these. 
 
@@ -90,7 +89,7 @@ If you’ve ever felt intimidated by learning to code and doing math, don’t co
 
 All workshop students will need to use their own laptop, which must be able to install software like R Studio. This means that Chromebooks and iPads won’t work. We’ll provide other materials, including links to where you can get the software we’ll be using for free.
 
-You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](https://idabwellssociety.org/membership-account/membership-levels/), and then [fill out the Data Institute application here](/apply/).
+You must be an Ida B. Wells Society member to apply. Membership is free and [you can sign up here](https://idabwellssociety.org/membership-account/membership-levels/).
 
 
 <!--
@@ -147,8 +146,7 @@ No, we are not offering remote participation in the Data Institute.
 
 **More questions?**
 
-Email [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). We're checking daily and can't wait to hear from you. And if you have all the info you need, [apply by May 24](/apply/)!
-
+Email [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). We're checking daily and can't wait to hear from you.
 
 <div id="conduct">
     <h2>Code of Conduct</h2>
