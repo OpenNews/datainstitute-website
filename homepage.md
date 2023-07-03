@@ -52,7 +52,7 @@ The workshop will be hands-on and participants will be working through exercises
 
 ## What students had to say
 
-Find out more about the class of <a href="https://projects.propublica.org/graphics/data-institute-2022#institute-who">2022</a>, <a href="https://projects.propublica.org/graphics/data-institute-2021#institute-who">2021</a>, <a href="https://projects.propublica.org/graphics/data-institute-2019#institute-who">2019</a>, <a href="https://projects.propublica.org/graphics/data-institute-2018#institute-who">2018</a>, <a href="https://projects.propublica.org/graphics/data-institute-2017#institute-who">2017</a> and <a href="https://projects.propublica.org/graphics/data-institute-2016#institute-who">2016</a>.
+Meet the [class of 2023](/2023/), <a href="https://projects.propublica.org/graphics/data-institute-2022#institute-who">2022</a>, <a href="https://projects.propublica.org/graphics/data-institute-2021#institute-who">2021</a>, <a href="https://projects.propublica.org/graphics/data-institute-2019#institute-who">2019</a>, <a href="https://projects.propublica.org/graphics/data-institute-2018#institute-who">2018</a>, <a href="https://projects.propublica.org/graphics/data-institute-2017#institute-who">2017</a>, and <a href="https://projects.propublica.org/graphics/data-institute-2016#institute-who">2016</a>.
 
 
 <div class="testimonials">
