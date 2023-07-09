@@ -1,13 +1,14 @@
 ---
 section: homepage
 permalink: /
+title: The Data Institute 2023
 ---
 
 <div class="page-intro">
-     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design and code. The Data Institute will return in person Mon., July 10 – Fri., July 21, 2023.</p>
+     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person July 10-21. <a href="/2023/">Meet the class of 2023</a>!</p>
 
       <div class="sub-nav">
-        <p><span>Applications are now closed.</span></p>
+        <!--<p><span>Applications are now closed. Congratulations to the <a href="/2023/">class of 2023</a>!</span></p>-->
         <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.</p>
     </div>
 </div>
