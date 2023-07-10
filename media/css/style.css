@@ -363,6 +363,25 @@ footer #footer-nav a:hover {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
+.class-list {
+	margin-bottom: 4em;
+}
+.class-list h2 {
+	margin-bottom: 1.5em;
+}
+.class-list p {
+	margin: 2em 0;
+	padding-left: 25%;
+}
+.class-list h2 + p.intro {
+	margin-top: -2em;
+	padding: 0;
+}
+.class-list img {
+	float: left;
+	width: 20%;
+	border-radius: 50%;
+}
 
 
 @media screen and (max-width: 960px) {
@@ -486,6 +505,15 @@ footer #footer-nav a:hover {
     header.homepage ul.partner-logos li.ida img {
         height: 110px;
     }
+	.class-list p {
+		margin-top: .33em;
+		padding-left: 0;
+	}
+	.class-list img {
+		float: none;
+		width: 40%;
+		margin: .5em 0 0 28%;
+	}
 }
 
 @media screen and (max-width: 480px) {
@@ -513,4 +541,11 @@ footer #footer-nav a:hover {
     header.homepage ul.partner-logos li.ida img {
         height: 90px;
     }
+}
+
+@media screen and (max-width: 380px) {
+	.class-list img {
+		width: 50%;
+		margin-left: 23%%;
+	}
 }
