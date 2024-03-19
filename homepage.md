@@ -1,11 +1,11 @@
 ---
 section: homepage
 permalink: /
-title: The Data Institute 2023
+title: The Data Institute 2024
 ---
 
 <div class="page-intro">
-     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person July 10-21. <a href="/2023/">Meet the class of 2023</a>!</p>
+     <p class="big-type">This free, intensive workshop teaches journalists how to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person July 8-19. Applications open April 10!</p>
 
       <div class="sub-nav">
         <!--<p><span>Applications are now closed. Congratulations to the <a href="/2023/">class of 2023</a>!</span></p>-->
@@ -18,7 +18,7 @@ title: The Data Institute 2023
 
 ## About the program
 
-The Data Institute is a free, hands-on workshop that will cover the basics of understanding and manipulating data, how to apply design principles and layout to stories and how to code your own interactive project. In addition to training sessions on data journalism, design and programming that are taught by experienced journalists, participants will also meet and talk to leading journalists about their careers.
+The Data Institute is a free, hands-on workshop that will teach you how to work with data as a journalist, how to apply design principles and layout to charts or stories, and how to code your own interactive project. In addition to training sessions on data journalism, design and programming that are taught by experienced journalists, participants will also meet and talk to leading journalists about their careers.
 
 Co-founded in 2015 by two women and journalists of color, Sisi Wei and Lena Groeger, the Data Institute seeks to address an equity gap and make high-quality training more accessible for all journalists who want to tell powerful stories. The Data Institute equips journalists from a broad array of social, ethnic and economic backgrounds with the technical skills to create and lead data journalism, including but not limited to people of color, women and nonbinary people, LGBTQ people, and people with disabilities.
 
@@ -44,6 +44,7 @@ Over two weeks, we'll cover the basics of using data, design and code for journa
 
 * Understand basic programming concepts.
 * Create your own website from scratch, using HTML/CSS and Javascript.
+* Understand how you might use AI in different ways to help your work as a journalist.
 * Know how to continue learning on your own.
 
 The workshop will be hands-on and participants will be working through exercises throughout the workshop.
@@ -68,6 +69,10 @@ Meet the [class of 2023](/2023/#class), <a href="https://projects.propublica.org
     <p class="testimonial">
         <span class="pullquote-big-quote">“</span>I learned so much during my two weeks here. I feel like I have a better idea of what could be possible, which in turn has led to a number of ideas I plan to bring back to The Courier-Journal.” <span class="pullquote-name">– Allison Ross</span>
     </p>
+
+    <p class="testimonial">
+        <span class="pullquote-big-quote">“</span>As a Black journalist who is constantly made to feel like I don't belong in this industry, this cohort has empowered me to go after the stories and work that I am passionate about. I was reminded that I do belong.” <span class="pullquote-name">– Anissa Durham</span>
+    </p>
 </div>
 
 
@@ -75,7 +80,7 @@ Meet the [class of 2023](/2023/#class), <a href="https://projects.propublica.org
 
 ## When + Where
 
-This year The Data Institute will return to its two-week, in-person format and take place July 10-21 on the campus of Howard University in Washington, D.C.
+The Data Institute is a two-week, in-person event from July 8-19 on the campus of Howard University in Washington, D.C.
 
 
 <span id="who"></span>
@@ -84,7 +89,7 @@ This year The Data Institute will return to its two-week, in-person format and t
 
 If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience_, but we want to see that you’ve demonstrated curiosity about telling stories with data. 
 
-With the move of the Data Institute to the Center for Journalism & Democracy’s home at Howard University, we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, and other groups historically left out of opportunities such as these. 
+The Data Institute’s home is the Center for Journalism & Democracy at Howard University, and we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, and other groups historically left out of opportunities such as these.
 
 If you’ve ever felt intimidated by learning to code and doing math, don’t count yourself out, because we’ve all been there. Most of the teachers you’ll have at the Data Institute majored in the humanities, such as journalism, English, history or philosophy.
 
@@ -104,7 +109,7 @@ We'll update this site with more details and the application on May 10. You can 
 
 ## It's Free
 
-The Data Institute is completely free to attend. We will provide lodging and cover roundtrip travel costs to Washington, D.C. We’ll also provide breakfast and lunch every day of the Institute.
+The Data Institute is completely free to attend. We will cover roundtrip travel costs to Washington, D.C., and provide lodging on the campus at Howard University. We’ll also provide lunch and snacks every day of the Institute.
 
 In addition, every participant will receive a $1,000 stipend to supplement other needs or replace lost income while participating in the program.
 
@@ -115,7 +120,7 @@ In addition, every participant will receive a $1,000 stipend to supplement other
 
 **When will you be notifying applicants on whether they've been selected?**
 
-We will begin reviewing applications after the May 24 deadline has passed, and will notify all applicants by June 6 if they've been selected.
+We will begin reviewing applications after the April 25 deadline has passed, and will notify all applicants by May 13 if they’ve been selected.
 
 **I'm not a U.S. resident. Am I eligible to apply?**
 
@@ -139,11 +144,15 @@ Yes!
 
 **What will the hours be? Will I need to take off work?**
 
-The Data Institute will run all day on weekdays between July 10 to July 21. There will also be assignments and project work that will likely occupy a good portion of evenings and weekends. We’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
+The Data Institute will run all day on weekdays between July 8 to July 19. There will also be assignments and project work that will likely occupy a good portion of evenings and weekends. We’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
 
 **Can I attend the Data Institute online?**
 
 No, we are not offering remote participation in the Data Institute.
+
+**Who organizes the Data Institute?**
+
+The Data Institute is a collaborative project of the [Center for Journalism & Democracy](https://cfjd.howard.edu/) and the [Ida B. Wells Society for Investigative Reporting](https://idabwellssociety.org/). The program was [developed at ProPublica](https://projects.propublica.org/graphics/ida-propublica-data-institute), which continues to support the project, and [OpenNews](https://opennews.org/) helps coordinate planning and participation. Major financial support is provided by the Robert Wood Johnson Foundation as part of the CJD’s Investigative Journalism for Health Equity Project.
 
 **More questions?**
 
