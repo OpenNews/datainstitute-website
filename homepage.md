@@ -89,7 +89,7 @@ The Data Institute is a two-week, in-person event from July 8-19 on the campus o
 
 If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience_, but we want to see that you’ve demonstrated curiosity about telling stories with data. 
 
-The Data Institute’s home is the Center for Journalism & Democracy at Howard University, and we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, and other groups historically left out of opportunities such as these.
+The Data Institute’s home is the Center for Journalism & Democracy at Howard University, and we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, the Asian and Pacific Islander communities, and other groups historically left out of opportunities such as these.
 
 If you’ve ever felt intimidated by learning to code and doing math, don’t count yourself out, because we’ve all been there. Most of the teachers you’ll have at the Data Institute majored in the humanities, such as journalism, English, history or philosophy.
 
