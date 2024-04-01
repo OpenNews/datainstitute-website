@@ -144,7 +144,7 @@ Yes!
 
 **What will the hours be? Will I need to take off work?**
 
-The Data Institute will run all day on weekdays between July 8 to July 19. There will also be assignments and project work that will likely occupy a good portion of evenings and weekends. We’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
+The Data Institute will run all day on weekdays between July 8 to July 19. We will also have a welcome dinner the evening of July 7, where we'll make sure everyone's laptop is set up for classwork. There will be assignments and project work that will likely occupy some of your evenings and weekends—we’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
 
 **Can I attend the Data Institute online?**
 
