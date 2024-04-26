@@ -8,9 +8,10 @@ title: The Data Institute 2024
      <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 8-19.</p>
 
       <div class="sub-nav">
-        <!--<p><span>Applications are now closed. Congratulations to the <a href="/2023/">class of 2023</a>!</span></p>-->
-        <p>The application deadline is April 25.
-        <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
+        <p><span>Applications are now closed.</span></p>
+        <!--<p><span>Applications are now closed. Congratulations to the <a href="/2024/">class of 2024</a>!</span></p>-->
+        <!--<p>The application deadline is April 25.
+        <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>-->
         <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.</p>
     </div>
 </div>
