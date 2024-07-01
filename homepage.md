@@ -5,10 +5,9 @@ title: The Data Institute 2024
 ---
 
 <div class="page-intro">
-     <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 8-19.</p>
+     <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 8-19. <a href="/2024/">Meet the class of 2024</a>!</p>
 
       <div class="sub-nav">
-        <p><span>Applications are now closed.</span></p>
         <!--<p><span>Applications are now closed. Congratulations to the <a href="/2024/">class of 2024</a>!</span></p>-->
         <!--<p>The application deadline is April 25.
         <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>-->
