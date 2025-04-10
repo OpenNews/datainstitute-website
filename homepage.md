@@ -1,16 +1,16 @@
 ---
 section: homepage
 permalink: /
-title: The Data Institute 2024
+title: The Data Institute 2025
 ---
 
 <div class="page-intro">
-     <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 8-19. <a href="/2024/">Meet the class of 2024</a>!</p>
+     <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 7-18. Applications open April 11!<a href="/2025/">Meet the class of 2025</a>!</p>
 
       <div class="sub-nav">
-        <!--<p><span>Applications are now closed. Congratulations to the <a href="/2024/">class of 2024</a>!</span></p>-->
-        <!--<p>The application deadline is April 25.
-        <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>-->
+        <!--<p><span>Applications are now closed. Congratulations to the <a href="/2025/">class of 2025</a>!</span></p>-->
+        <p>The application deadline is April 25.
+         <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
         <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.</p>
     </div>
 </div>
@@ -56,7 +56,7 @@ The workshop will be hands-on and participants will be working through exercises
 
 ## What students had to say
 
-Meet the [class of 2023](/2023/#class), <a href="https://projects.propublica.org/graphics/data-institute-2022#institute-who">2022</a>, <a href="https://projects.propublica.org/graphics/data-institute-2021#institute-who">2021</a>, <a href="https://projects.propublica.org/graphics/data-institute-2019#institute-who">2019</a>, <a href="https://projects.propublica.org/graphics/data-institute-2018#institute-who">2018</a>, <a href="https://projects.propublica.org/graphics/data-institute-2017#institute-who">2017</a>, and <a href="https://projects.propublica.org/graphics/data-institute-2016#institute-who">2016</a>.
+Meet the class of: <a href="https://projects.propublica.org/graphics/data-institute-2024#institute-who">2024</a>, <a href="https://projects.propublica.org/graphics/data-institute-2023#institute-who">2023</a>, <a href="https://projects.propublica.org/graphics/data-institute-2022#institute-who">2022</a>, <a href="https://projects.propublica.org/graphics/data-institute-2021#institute-who">2021</a>, <a href="https://projects.propublica.org/graphics/data-institute-2019#institute-who">2019</a>, <a href="https://projects.propublica.org/graphics/data-institute-2018#institute-who">2018</a>, <a href="https://projects.propublica.org/graphics/data-institute-2017#institute-who">2017</a>, and <a href="https://projects.propublica.org/graphics/data-institute-2016#institute-who">2016</a>.
 
 
 <div class="testimonials">
@@ -82,7 +82,7 @@ Meet the [class of 2023](/2023/#class), <a href="https://projects.propublica.org
 
 ## When + Where
 
-The Data Institute is a two-week, in-person event from July 8-19 on the campus of Howard University in Washington, D.C.
+The Data Institute is a two-week, in-person event from July 7-18 on the campus of Morehouse College in Atlanta, GA.
 
 
 <span id="who"></span>
@@ -91,9 +91,9 @@ The Data Institute is a two-week, in-person event from July 8-19 on the campus o
 
 If you’re a journalist passionate about learning how to use data, design and code to help tell stories, this workshop is for you. _You don’t need to have any previous experience_, but we want to see that you’ve demonstrated curiosity about telling stories with data. 
 
-The Data Institute’s home is the Center for Journalism & Democracy at Howard University, and we’re especially excited to welcome applicants from HBCUs—alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, the Asian and Pacific Islander communities, and other groups historically left out of opportunities such as these.
+The Data Institute’s home is the Ida B. Wells Society for Investigative Reporting at Morehouse College, and we’re especially excited to welcome applicants from HBCUs — alumni, professors, and current students. In addition, we strongly encourage applications from members of tribal nations, Hispanic-Serving Institutions, the Asian and Pacific Islander communities, and other groups historically left out of opportunities such as these.
 
-If you’ve ever felt intimidated by learning to code and doing math, don’t count yourself out, because we’ve all been there. Most of the teachers you’ll have at the Data Institute majored in the humanities, such as journalism, English, history or philosophy.
+If you’ve ever felt intimidated by learning to code and doing math, don’t count yourself out. We’ve all been there. Most of the teachers you’ll have at the Data Institute majored in the humanities, such as journalism, English, history or philosophy.
 
 All workshop students will need to use their own laptop, which must be able to install software like R Studio. This means that Chromebooks and iPads won’t work. We’ll provide other materials, including links to where you can get the software we’ll be using for free.
 
@@ -111,7 +111,7 @@ We'll update this site with more details and the application on May 10. You can 
 
 ## It's Free
 
-The Data Institute is completely free to attend. We will cover roundtrip travel costs to Washington, D.C., and provide lodging on the campus at Howard University. We’ll also provide lunch and snacks every day of the Institute.
+The Data Institute is completely free to attend. We will cover roundtrip travel costs to Atlanta, GA and provide lodging. We’ll also provide lunch and snacks every day of the Institute.
 
 In addition, every participant will receive a $1,000 stipend to supplement other needs or replace lost income while participating in the program.
 
@@ -122,7 +122,7 @@ In addition, every participant will receive a $1,000 stipend to supplement other
 
 **When will you be notifying applicants on whether they've been selected?**
 
-We will begin reviewing applications after the April 25 deadline has passed, and will notify all applicants by May 15 if they’ve been selected.
+We will begin reviewing applications after the April 25 deadline has passed, and will notify all applicants by May 16 if they’ve been selected.
 
 **I'm not a U.S. resident. Am I eligible to apply?**
 
@@ -146,7 +146,7 @@ Yes!
 
 **What will the hours be? Will I need to take off work?**
 
-The Data Institute will run all day on weekdays between July 8 to July 19. We will also have a welcome dinner the evening of July 7, where we'll make sure everyone's laptop is set up for classwork. There will be assignments and project work that will likely occupy some of your evenings and weekends—we’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
+The Data Institute will run all day on weekdays between July 7 to July 18. We will also have a welcome dinner where we'll make sure everyone's laptop is set up for classwork. There will be assignments and project work that will likely occupy some of your evenings and weekends — we’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
 
 **Can I attend the Data Institute online?**
 
