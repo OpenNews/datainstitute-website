@@ -9,7 +9,9 @@ The Data Institute is a collaboration between the Center for Journalism & Democr
  
 Applications for 2025 are open through April 25. We'll begin review after the application window closes. Applicants will hear back by May 19. 
 
-If you have questions, you can [check our FAQ](/#faq) or reach out to [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). If you're all set, the application form is below!
+If you have questions, you can [check our FAQ](/#faq) or reach out to [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). If you're all set, the application form is below or at this [link](https://airtable.com/appavYgrstX5igxxO/shrbjaWtkeyKCBOWz)!
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appavYgrstX5igxxO/shrbjaWtkeyKCBOWz" frameborder="0" onmousewheel="" width="100%" height="4367" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 {% comment %}
 The Data Institute is a collaboration between the Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting. It is a two-week intensive workshop that will teach you how to use data, design and code for journalism. 
