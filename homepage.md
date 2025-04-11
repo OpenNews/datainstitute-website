@@ -82,7 +82,7 @@ Meet the class of: <a href="https://projects.propublica.org/graphics/data-instit
 
 ## When + Where
 
-The Data Institute is a two-week, in-person event from July 7-18 on the campus of Morehouse College in Atlanta, GA.
+The Data Institute is a two-week, in-person event from July 7-18 in Atlanta, GA.
 
 
 <span id="who"></span>
