@@ -5,13 +5,13 @@ title: The Data Institute 2025
 ---
 
 <div class="page-intro">
-     <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 7-18. Applications open April 11!</p>
+     <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 7-18 in Atlanta, GA. Applications open April 11!</p>
 
       <div class="sub-nav">
         <!--<p><span>Applications are now closed. Congratulations to the <a href="/2025/">class of 2025</a>!</span></p>-->
         <p>The application deadline is April 25.
          <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
-        <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:team@cjddatainstitute.org">team@cjddatainstitute.org</a>.</p>
+        <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:ibws@morehouse.edu">ibws@morehouse.edu</a>.</p>
     </div>
 </div>
 
@@ -111,7 +111,7 @@ We'll update this site with more details and the application on May 10. You can 
 
 ## It's Free
 
-The Data Institute is completely free to attend. We will cover roundtrip travel costs to Atlanta, GA and provide lodging. We’ll also provide lunch and snacks every day of the Institute.
+The Data Institute is completely free to attend. We will cover roundtrip travel costs to Atlanta, GA and provide lodging nearby. We’ll also provide lunch and snacks every day of the Institute.
 
 In addition, every participant will receive a $1,000 stipend to supplement other needs or replace lost income while participating in the program.
 
@@ -122,7 +122,7 @@ In addition, every participant will receive a $1,000 stipend to supplement other
 
 **When will you be notifying applicants on whether they've been selected?**
 
-We will begin reviewing applications after the April 25 deadline has passed, and will notify all applicants by May 16 if they’ve been selected.
+We will begin reviewing applications after the April 25 deadline has passed, and will notify all applicants by May 19 if they’ve been selected.
 
 **I'm not a U.S. resident. Am I eligible to apply?**
 
@@ -146,7 +146,7 @@ Yes!
 
 **What will the hours be? Will I need to take off work?**
 
-The Data Institute will run all day on weekdays between July 7 to July 18. We will also have a welcome dinner where we'll make sure everyone's laptop is set up for classwork. There will be assignments and project work that will likely occupy some of your evenings and weekends — we’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
+The Data Institute will run all day on weekdays between July 7 to July 18. We will also have a welcome dinner July 6 where we'll make sure everyone's laptop is set up for classwork. There will be assignments and project work that will likely occupy some of your evenings and weekends — we’re going to pack a lot of information into these two weeks, so applicants must be able to dedicate the entire time to the program. If this poses a financial burden that would make you unable to attend the workshop, we hope the $1,000 stipend for each participant helps mitigate that issue.
 
 **Can I attend the Data Institute online?**
 
@@ -158,7 +158,7 @@ The Data Institute is a collaborative project of the [Center for Journalism & De
 
 **More questions?**
 
-Email [team@cjddatainstitute.org](mailto:team@cjddatainstitute.org). We're checking daily and can't wait to hear from you.
+Email [ibws@morehouse.edu](mailto:ibws@morehouse.edu). We're checking daily and can't wait to hear from you.
 
 <div id="conduct">
     <h2>Code of Conduct</h2>
