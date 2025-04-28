@@ -8,7 +8,7 @@ title: The Data Institute 2025
      <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 7-18 in Atlanta, GA.</p>
 
       <div class="sub-nav">
-        <p><span>Applications for 2025 are now closed. Applicants will be notified by May 19</span></p> 
+        <p><span>Applications for 2025 are now closed. Applicants will be notified by May 19.</span></p> 
         <!-- Congratulations to the <a href="/2025/">class of 2025</a>! -->
         <!-- <p>The application deadline is April 25.
          <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p> -->
