@@ -8,9 +8,10 @@ title: The Data Institute 2025
      <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 7-18 in Atlanta, GA. Applications open April 11!</p>
 
       <div class="sub-nav">
-        <!--<p><span>Applications are now closed. Congratulations to the <a href="/2025/">class of 2025</a>!</span></p>-->
-        <p>The application deadline is April 25.
-         <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
+        <p><span>Applications are now closed. Applicants for 2025 will be notified by May 19</span></p> 
+        <!-- Congratulations to the <a href="/2025/">class of 2025</a>! -->
+        <!-- <p>The application deadline is April 25.
+         <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p> -->
         <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:ibws@morehouse.edu">ibws@morehouse.edu</a>.</p>
     </div>
 </div>
@@ -56,7 +57,7 @@ The workshop will be hands-on and participants will be working through exercises
 
 ## What students had to say
 
-Meet the class of: <a href="https://projects.propublica.org/graphics/data-institute-2024#institute-who">2024</a>, <a href="https://projects.propublica.org/graphics/data-institute-2023#institute-who">2023</a>, <a href="https://projects.propublica.org/graphics/data-institute-2022#institute-who">2022</a>, <a href="https://projects.propublica.org/graphics/data-institute-2021#institute-who">2021</a>, <a href="https://projects.propublica.org/graphics/data-institute-2019#institute-who">2019</a>, <a href="https://projects.propublica.org/graphics/data-institute-2018#institute-who">2018</a>, <a href="https://projects.propublica.org/graphics/data-institute-2017#institute-who">2017</a>, <a href="https://projects.propublica.org/graphics/data-institute-2016#institute-who">2016</a>.
+Meet the class of: <a href="/2024/#class">2024</a>, <a href="/2023/#class">2023</a>, <a href="https://projects.propublica.org/graphics/data-institute-2022#institute-who">2022</a>, <a href="https://projects.propublica.org/graphics/data-institute-2021#institute-who">2021</a>, <a href="https://projects.propublica.org/graphics/data-institute-2019#institute-who">2019</a>, <a href="https://projects.propublica.org/graphics/data-institute-2018#institute-who">2018</a>, <a href="https://projects.propublica.org/graphics/data-institute-2017#institute-who">2017</a>, <a href="https://projects.propublica.org/graphics/data-institute-2016#institute-who">2016</a>.
 
 
 <div class="testimonials">
