@@ -1,0 +1,30 @@
+version: 2
+
+updates:
+  # GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    target-branch: "staging"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    labels:
+      - "dependencies"
+      - "github-actions"
+    open-pull-requests-limit: 5
+    ignore:
+      # Ignore opennews-actions updates (manually managed)
+      - dependency-name: "OpenNews/opennews-actions"
+
+  # Ruby gems (Bundler)
+  - package-ecosystem: "bundler"
+    directory: "/"
+    target-branch: "staging"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    labels:
+      - "dependencies"
+      - "ruby"
+    open-pull-requests-limit: 5
+    versioning-strategy: increase
