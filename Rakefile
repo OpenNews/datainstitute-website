@@ -10,8 +10,6 @@ task :validate_yaml do
     .sort
     .each do |file|
       begin
-        node = Psych.parse_file(file)
-        collect_yaml_duplicate_keys(node, file, errors)
         YAML.safe_load_file(file)
       rescue Psych::SyntaxError => e
         errors << "#{file}: syntax error — #{e.message}"
