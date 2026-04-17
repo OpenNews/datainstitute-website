@@ -1,0 +1,14 @@
+name: Weekly Health Check
+
+on:
+  schedule:
+    - cron: "0 12 * * 1" # Every Monday at noon UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  health-check:
+    uses: OpenNews/opennews-actions/.github/workflows/jekyll-health-check.yml@v1

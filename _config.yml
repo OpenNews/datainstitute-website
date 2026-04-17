@@ -4,7 +4,19 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 plugins:
   - jekyll-redirect-from
-exclude: ['*.yml']
+exclude:
+  - "*.yml"
+  - "Rakefile"
+  - "README.md"
+  - "LICENSE"
+  - "tasks/*"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "package.json"
+  - "package-lock.json"
+  - "yarn.lock"
+  - "node_modules/"
+  - "vendor/"
 collections:
   transcripts:
     output: true
@@ -21,3 +33,9 @@ defaults:
       logo: /media/img/share_logo.png
       title: The Data Institute
       description: The Data Institute is a free, hands-on workshop that teaches journalists how to use data, design, and code.
+
+# Deployment configuration for GitHub Actions
+deployment:
+  bucket: datainstitute-website  # Set to production S3 bucket (was AWS_S3_BUCKET)
+  staging_bucket: staging.cjddatainstitute.org  # Set to staging S3 bucket (was AWS_S3_BUCKET_STAGING)
+  cloudfront_distribution_id: E1H4ER8SFR5ZGR  # Set to CloudFront distribution ID (was CLOUDFRONT_DISTRIBUTION_ID)

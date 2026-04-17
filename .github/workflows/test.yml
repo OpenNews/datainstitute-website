@@ -1,0 +1,64 @@
+name: Test Build
+
+on:
+  push:
+    branches-ignore:
+      - main
+      - staging
+  pull_request:
+    branches:
+      - main
+      - staging
+
+permissions:
+  contents: read
+  id-token: write # Required for OIDC authentication
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Build & test
+        uses: OpenNews/opennews-actions/jekyll-build@v1
+        with:
+          run-checks: "true"
+          run-tests: "true"
+
+      - name: Extract deployment config from _config.yml
+        if: github.event_name == 'pull_request' && env.AWS_ROLE_ARN != '' && github.repository != 'OpenNews/datainstitute-website'
+        id: config
+        env:
+          AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
+        run: |
+          STAGING_BUCKET=$(ruby -ryaml -e "config = YAML.load_file('_config.yml'); puts config['deployment']['staging_bucket']")
+          echo "staging_bucket=$STAGING_BUCKET" >> $GITHUB_OUTPUT
+
+      - name: Configure AWS credentials
+        if: github.event_name == 'pull_request' && env.AWS_ROLE_ARN != '' && github.repository != 'OpenNews/datainstitute-website'
+        uses: aws-actions/configure-aws-credentials@v6
+        env:
+          AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-region: us-east-1
+          role-session-name: Test-${{ github.event.repository.name }}-${{ github.run_id }}
+
+      - name: Test deployment (dry-run)
+        if: github.event_name == 'pull_request' && env.AWS_ROLE_ARN != '' && github.repository != 'OpenNews/datainstitute-website'
+        env:
+          AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
+        run: |
+          echo "Testing S3 sync command (dry-run)..."
+          aws s3 sync _site/ s3://${{ steps.config.outputs.staging_bucket }} \
+            --dryrun \
+            --delete \
+            --cache-control "public, max-age=3600"
+
+      - name: Skip deployment test (no credentials or GitHub Pages repo)
+        if: github.event_name == 'pull_request' && (env.AWS_ROLE_ARN == '' || github.repository == 'OpenNews/datainstitute-website')
+        env:
+          AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
+        run: |
+          echo "⏭️  Skipping S3 deployment test in this build context"
+          echo "This is normal for Dependabot PRs and external contributions."
