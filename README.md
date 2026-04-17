@@ -12,7 +12,6 @@ This is the website for OpenNews Data Institute, built with Jekyll and deployed 
   - [Code Formatting](#code-formatting)
   - [Editor Setup (VSCode, Cursor, Antigravity, etc.)](#editor-setup-vscode-cursor-antigravity-etc)
 - [Deployment](#deployment)
-- [Repository Structure](#repository-structure)
 - [Troubleshooting](#troubleshooting)
 
 ## Quick Start
@@ -39,7 +38,7 @@ This project requires Ruby and Bundler. Check if you have them installed:
 
 ```bash
 ruby --version   # Should match .ruby-version
-bundle --version # Should be 2.0 or higher
+bundle --version # Should be 4.0 or higher
 ```
 
 Install dependencies:

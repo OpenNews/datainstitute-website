@@ -1,5 +1,6 @@
 require "jekyll"
 require "yaml"
+require "fileutils"
 
 desc "Validate YAML files for syntax errors and duplicate keys"
 task :validate_yaml do
@@ -31,7 +32,7 @@ end
 
 desc "Check configuration and dependencies"
 task :check do
-  config = YAML.load_file("_config.yml")
+  config = YAML.safe_load_file("_config.yml")
 
   # Verify deployment config exists
   unless config["deployment"]
@@ -43,7 +44,7 @@ end
 
 desc "Build the Jekyll site"
 task :build do
-  sh "jekyll build"
+  sh "bundle exec jekyll build"
 end
 
 desc "Test the built site"
