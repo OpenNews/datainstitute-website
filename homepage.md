@@ -8,10 +8,10 @@ title: The Data Institute 2026
      <p class="big-type">This free, intensive workshop teaches journalists how&nbsp;to&nbsp;use data, design and code. This year&rsquo;s Data Institute will be in person from July 5-18 in Washington D.C.</p>
 
       <div class="sub-nav">
-        <!-- <p><span>Applications for 2025 are now closed. Applicants will be notified by May 28.</span></p>  -->
-        <!-- Congratulations to the <a href="/2025/">class of 2025</a>! -->
+        <p><span>Applications for 2026 are now closed. Applicants will be notified by May 28.</span></p> 
+        <!-- Congratulations to the <a href="/2025/">class of 2025</a>!
         <p>The application deadline is Sunday, April 19 11:59 p.m. ET.
-         <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p>
+         <span><a href="/apply/" class="button">Apply now! &rarr;</a></span></p> -->
         <p>Questions? Check our <a href="#faq">FAQ</a> or email <a href="mailto:ibws@morehouse.edu">ibws@morehouse.edu</a>.</p>
     </div>
 </div>

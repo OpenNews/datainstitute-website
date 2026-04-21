@@ -7,13 +7,11 @@ title: The Data Institute — Apply!
 
 The Data Institute is a collaboration between the Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting. It is a two-week intensive workshop that will teach you how to use data, design and code for journalism.
  
-<!-- Applications for 2026 are now closed and review has begun. Applicants will hear back by May 28.  -->
+Applications for 2026 are now closed and review has begun. Applicants will hear back by May 28. 
 
 If you have questions, you can [check our FAQ](/#faq) or reach out to [ibws@morehouse.edu](mailto:ibws@morehouse.edu). 
 
-If you're all set, the application form is below or at this [link](https://airtable.com/appLXg3HL8q4FPnHb/shrcYO1FMAkWlr92p)!
-
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/appLXg3HL8q4FPnHb/shrcYO1FMAkWlr92p" frameborder="0" onmousewheel="" width="100%" height="8498" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<!-- If you're all set, the application form is below or at this [link](https://airtable.com/appLXg3HL8q4FPnHb/shrcYO1FMAkWlr92p)! -->
 
 {% comment %}
 The Data Institute is a collaboration between the Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting. It is a two-week intensive workshop that will teach you how to use data, design and code for journalism. 
